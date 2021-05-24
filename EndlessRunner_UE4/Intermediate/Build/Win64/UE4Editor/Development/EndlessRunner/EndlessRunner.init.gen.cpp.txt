@@ -1,0 +1,3 @@
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Definitions.EndlessRunner.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

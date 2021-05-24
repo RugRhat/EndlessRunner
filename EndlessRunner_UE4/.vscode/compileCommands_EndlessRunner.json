@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Angelica .DESKTOP-RM5JOAJ\\\\Documents\\\\SUMMER GAMES\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Angelica .DESKTOP-RM5JOAJ\\\\Documents\\\\SUMMER GAMES\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.cpp",
+		"command": "cl.exe @\"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Angelica .DESKTOP-RM5JOAJ\\\\Documents\\\\SUMMER GAMES\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunner.h",
+		"command": "cl.exe @\"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Angelica .DESKTOP-RM5JOAJ\\\\Documents\\\\SUMMER GAMES\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Angelica .DESKTOP-RM5JOAJ\\\\Documents\\\\SUMMER GAMES\\\\EndlessRunner\\\\Source\\\\EndlessRunner\\\\EndlessRunnerGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner\\EndlessRunner.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
