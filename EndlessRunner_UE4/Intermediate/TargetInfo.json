@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "EndlessRunner",
-			"Path": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Source\\EndlessRunner.Target.cs",
+			"Path": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunner.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "EndlessRunnerEditor",
-			"Path": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Source\\EndlessRunnerEditor.Target.cs",
+			"Path": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunnerEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

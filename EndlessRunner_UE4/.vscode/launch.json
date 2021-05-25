@@ -5,7 +5,7 @@
 			"name": "EndlessRunner (Debug)",
 			"request": "launch",
 			"preLaunchTask": "EndlessRunner Win64 Debug Build",
-			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Binaries\\Win64\\UE4-Win64-Debug.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
@@ -18,7 +18,7 @@
 			"name": "EndlessRunner (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "EndlessRunner Win64 DebugGame Build",
-			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
@@ -31,7 +31,7 @@
 			"name": "EndlessRunner (Development)",
 			"request": "launch",
 			"preLaunchTask": "EndlessRunner Win64 Development Build",
-			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Binaries\\Win64\\UE4.exe",
+			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Binaries\\Win64\\UE4.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
@@ -44,7 +44,7 @@
 			"name": "EndlessRunner (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "EndlessRunner Win64 Shipping Build",
-			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
@@ -57,7 +57,7 @@
 			"name": "EndlessRunner (Test)",
 			"request": "launch",
 			"preLaunchTask": "EndlessRunner Win64 Test Build",
-			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"program": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Binaries\\Win64\\UE4-Win64-Test.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
@@ -72,7 +72,7 @@
 			"preLaunchTask": "EndlessRunnerEditor Win64 Debug Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner.uproject"
+				"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\EndlessRunner.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
 			"stopAtEntry": false,
@@ -86,7 +86,7 @@
 			"preLaunchTask": "EndlessRunnerEditor Win64 DebugGame Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
 			"args": [
-				"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner.uproject"
+				"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\EndlessRunner.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
 			"stopAtEntry": false,
@@ -100,7 +100,7 @@
 			"preLaunchTask": "EndlessRunnerEditor Win64 Development Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner.uproject"
+				"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\EndlessRunner.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
 			"stopAtEntry": false,
@@ -117,7 +117,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner.uproject",
+				"-project=C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\EndlessRunner.uproject",
 				"-game",
 				"-engine"
 			],

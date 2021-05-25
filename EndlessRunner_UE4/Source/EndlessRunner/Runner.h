@@ -25,7 +25,7 @@ protected:
 	UPROPERTY(EditDefaultsOnly, Category = "Movement")
 	int Speed = 2;
 
-	void Dodge(float AxisValue);
+	// void Dodge(float AxisValue);
 	
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

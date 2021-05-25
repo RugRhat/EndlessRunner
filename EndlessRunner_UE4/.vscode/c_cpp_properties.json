@@ -3,14 +3,14 @@
         {
             "name": "EndlessRunnerEditor Editor Win64 Development (EndlessRunner)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_EndlessRunner.json",
+            "compileCommands": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\.vscode\\compileCommands_EndlessRunner.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }
