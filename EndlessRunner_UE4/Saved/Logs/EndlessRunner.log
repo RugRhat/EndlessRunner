@@ -2087,3 +2087,319 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-19.51.39:388][740]LogUObjectHash: Compacting FUObjectHashTables data took  21.15ms
 [2021.05.26-19.51.39:522][741]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2021.05.26-19.51.42:951][796]LogUObjectHash: Compacting FUObjectHashTables data took  12.95ms
+[2021.05.26-19.53.18:054][106]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-19.53.18:124][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-19.53.18:125][106]PIE: New page: PIE session: MenuMap (May 26, 2021, 11:53:18 AM)
+[2021.05.26-19.53.18:125][106]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuMap
+[2021.05.26-19.53.18:154][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027838s)
+[2021.05.26-19.53.18:158][106]LogAIModule: Creating AISystem for world MenuMap
+[2021.05.26-19.53.18:159][106]LogPlayLevel: PIE: World Init took: (0.005235s)
+[2021.05.26-19.53.18:159][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuMap.MenuMap to /Game/UEDPIE_0_MenuMap.MenuMap (0.033694s)
+[2021.05.26-19.53.18:302][106]LogUObjectHash: Compacting FUObjectHashTables data took  14.35ms
+[2021.05.26-19.53.18:305][106]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.26-19.53.18:305][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-19.53.18:306][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-19.53.18:306][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-19.53.18:306][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-19.53.18:306][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-19.53.18:306][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-19.53.18:306][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-19.53.18:306][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-19.53.18:308][106]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-19.53.18:308][106]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-19.53.18:332][106]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-19.53.18:333][106]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-19.53.18:416][106]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.05.26-19.53.18:417][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-19.53.18:417][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-19.53.18:417][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-19.53.18:419][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-19.53.18:419][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-19.53.18:419][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-19.53.18:479][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-19.53.18:479][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-19.53.18:479][106]LogInit: FAudioDevice initialized.
+[2021.05.26-19.53.18:479][106]LogAudio: Display: Audio Device (ID: 7) registered with world 'MenuMap'.
+[2021.05.26-19.53.18:501][106]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2021.05.26-19.53.18:508][106]LogWorld: Bringing World /Game/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 60) at 2021.05.26-15.53.18
+[2021.05.26-19.53.18:509][106]LogWorld: Bringing up level for play took: 0.007373
+[2021.05.26-19.53.18:510][106]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.26-19.53.18:519][106]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.26-19.53.18:519][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.26-19.53.18:519][106]PIE: Server logged in
+[2021.05.26-19.53.18:523][106]PIE: Play in editor total start time 0.435 seconds.
+[2021.05.26-19.53.30:662][259]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.05.26-19.53.30:662][259]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.05.26-19.53.30:671][259]LogNet: Browse: /Game/GameMap??game=/Game/Blueprints/BP_RunnerGM.BP_RunnerGM_C
+[2021.05.26-19.53.30:671][259]LogLoad: LoadMap: /Game/GameMap??game=/Game/Blueprints/BP_RunnerGM.BP_RunnerGM_C
+[2021.05.26-19.53.30:671][259]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MenuMap
+[2021.05.26-19.53.30:673][259]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.53.30:675][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.53.30:850][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-19.53.30:869][259]LogUObjectHash: Compacting FUObjectHashTables data took  15.18ms
+[2021.05.26-19.53.30:907][259]LogAudio: Display: Audio Device (ID: 7) registered with world 'GameMap'.
+[2021.05.26-19.53.30:911][259]LogAIModule: Creating AISystem for world GameMap
+[2021.05.26-19.53.30:913][259]LogLoad: Game class is 'BP_RunnerGM_C'
+[2021.05.26-19.53.30:974][259]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2021.05.26-15.53.30
+[2021.05.26-19.53.30:975][259]LogWorld: Bringing up level for play took: 0.060336
+[2021.05.26-19.53.30:987][259]LogLoad: Took 0.316542 seconds to LoadMap(/Game/GameMap)
+[2021.05.26-19.53.33:082][275]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13690.000 Y=0.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-19.53.37:351][305]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.26-19.53.37:351][305]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.26-19.53.39:881][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-19.53.39:916][322]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameMap
+[2021.05.26-19.53.39:917][322]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.53.39:922][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.53.40:134][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-19.53.40:157][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.53.40:282][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-19.53.40:284][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-19.53.40:287][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-19.53.40:386][322]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2021.05.26-19.53.40:461][323]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.26-20.03.28:479][414]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.28:480][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.28:493][414]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.28:493][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.28:646][415]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.26-20.03.31:054][523]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.31:054][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.31:062][523]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.31:062][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.32:069][567]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.32:069][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.32:077][567]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.32:077][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.32:824][600]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.32:824][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.32:834][600]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-20.03.32:834][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-20.03.42:409][753]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.26-20.03.44:397][753]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-20.03.44:397][753]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-20.03.45:210][754]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.26-20.03.45:322][754]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-20.03.45:322][754]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.37.19:616][847]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.05.26-22.37.23:970][847]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.26-22.37.25:103][847]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-22.37.25:103][847]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.37.26:068][848]LogHttp: Warning: 0000025D256CF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD9749C4-44B9-7507-DAE6-D19FFBA672B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=023a58934bb7660ad3be938b62c9e3bf%7Ca6913804a3984dc4b1a26f3e7b9281dc%7C8b70d36b-ffd7-4693-b8e2-b42a2c7f141a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.26-22.37.26:068][848]LogHttp: Warning: 0000025D256CF900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25c8a4c7eb0 [can pipeline])
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.224.146.173) port 443 (#0))
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.26-22.37.26:069][848]LogHttp: Warning: 0000025D256CF900: libcurl info message cache 7 (Closing connection 0)
+[2021.05.26-22.37.26:080][848]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.26-22.37.26:206][848]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-22.37.26:206][848]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.37.27:409][849]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD9749C4-44B9-7507-DAE6-D19FFBA672B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=023a58934bb7660ad3be938b62c9e3bf%7Ca6913804a3984dc4b1a26f3e7b9281dc%7C8b70d36b-ffd7-4693-b8e2-b42a2c7f141a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.26-22.37.27:420][849]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.26-22.37.27:488][849]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-22.37.27:488][849]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.39.19:540][530]LogContentBrowser: Attempting asset rename: Blueprints -> Blueprints
+[2021.05.26-22.39.25:407][650]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/InGameHUD.InGameHUD
+[2021.05.26-22.41.03:945][559]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.26-22.41.03:967][559]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.26-22.41.04:027][559]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.26-22.41.15:850][685]LogContentBrowser: Attempting asset rename: NewBlueprint -> EndlessScoreSave
+[2021.05.26-22.41.15:874][685]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.26-22.41.18:611][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EndlessScoreSave.EndlessScoreSave
+[2021.05.26-22.41.23:757][761]LogSlate: Window 'EndlessScoreSave' being destroyed
+[2021.05.26-22.41.35:436][380]LogSlate: Took 0.001349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.26-22.41.42:036][693]BlueprintLog: New page: Compile EndlessScoreSave
+[2021.05.26-22.41.42:172][693]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2021.05.26-22.41.43:771][772]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/EndlessScoreSave7D14E600428A186AE0CB1D90DFF1AD9A.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/EndlessScoreSave.uasset'
+[2021.05.26-22.41.43:829][772]AssetCheck: New page: Asset Save: EndlessScoreSave
+[2021.05.26-22.41.43:829][772]LogContentValidation: Display: Validating Blueprint /Game/EndlessScoreSave.EndlessScoreSave
+[2021.05.26-22.41.52:150][914]LogContentBrowser: Attempting asset rename: EndlessScoreSave -> EndlessSave
+[2021.05.26-22.41.52:298][914]LogMetaData: Removing '/Game/EndlessSave.SKEL_EndlessSave_C' ref from Metadata '/Game/EndlessScoreSave.PackageMetaData'
+[2021.05.26-22.41.52:298][914]LogMetaData: Removing '/Game/EndlessSave.EndlessSave_C' ref from Metadata '/Game/EndlessScoreSave.PackageMetaData'
+[2021.05.26-22.41.52:374][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndlessSave" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/EndlessSave.uasset" SILENT=true
+[2021.05.26-22.41.52:383][914]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/EndlessSave58A637964BC99D88B4FED3BA7F23BA30.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/EndlessSave.uasset'
+[2021.05.26-22.41.52:704][914]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2021.05.26-22.41.52:824][914]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2021.05.26-22.41.52:923][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.26-22.41.53:034][914]AssetCheck: New page: Asset Save: EndlessSave
+[2021.05.26-22.41.53:035][914]LogContentValidation: Display: Validating Blueprint /Game/EndlessSave.EndlessSave
+[2021.05.26-22.42.24:298][448]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2021.05.26-22.43.57:743][376]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.05.26-22.43.57:832][376]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGMDEBD5138471700E7EC418197E037B775.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.43.57:856][376]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.43.57:856][376]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.44.34:448][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.05.26-22.44.34:560][899]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM9449FD194671CE5CFA9691A46FA42994.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.44.34:591][899]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.44.34:592][899]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.45.27:655][986]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.26-22.45.31:866][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.05.26-22.45.32:032][ 88]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGMFF8DE2C74F1336D85A723F8639CEBF3D.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.45.32:079][ 88]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.45.32:079][ 88]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.45.48:711][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.05.26-22.45.48:927][542]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM79594A61487A4D9607E81EB86A261DC1.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.45.48:986][542]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.45.48:987][542]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.46.20:054][518]LogUObjectHash: Compacting FUObjectHashTables data took  17.90ms
+[2021.05.26-22.46.20:265][518]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM45FFAA8A4219A8E7BDDB5599358096BE.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.46.20:322][518]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.46.20:322][518]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.46.35:385][922]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2021.05.26-22.46.35:607][922]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGME2D3D42048382B9008F287A937514F94.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.46.35:644][922]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.46.35:644][922]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.46.56:385][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.26-22.46.56:566][509]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM34002E564815567786BA11BF16A52E1C.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.46.56:604][509]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.46.56:605][509]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.49.12:654][116]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.05.26-22.49.12:870][116]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGMC1D6D50B43977FB56C70D4AAAD283EE6.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.49.12:926][116]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.49.12:927][116]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.49.29:951][651]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGME0961BD74D9A6E8B32C8DBB89D2FC194.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.49.30:052][651]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.49.30:052][651]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.50.44:551][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.05.26-22.50.44:765][583]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGMBF02F0DA432CB13E2678C5A11269E23A.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.50.44:818][583]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.50.44:819][583]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.50.59:390][935]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGMC8E290EC46098D0B6A0A6AA6BD2FCAED.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.50.59:469][935]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.50.59:469][935]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.52.09:116][384]LogEditorTransaction: Undo Move Node
+[2021.05.26-22.52.10:440][406]LogEditorTransaction: Undo Create Reroute Node
+[2021.05.26-22.53.33:647][ 17]LogUObjectHash: Compacting FUObjectHashTables data took  18.75ms
+[2021.05.26-22.53.33:650][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MenuMap' took 0.161
+[2021.05.26-22.53.33:652][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RunnerGM] ([1] browsable assets)...
+[2021.05.26-22.53.33:652][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RunnerGM]
+[2021.05.26-22.53.33:796][ 17]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM_Auto116D054F24334D4E5F6A030B9609C03F7.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/Autosaves/Game/Blueprints/BP_RunnerGM_Auto1.uasset'
+[2021.05.26-22.53.33:802][ 17]LogFileHelpers: Auto-saving content packages took 0.152
+[2021.05.26-22.53.37:376][ 94]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM8CAAAD3D49A0A36D05B514B0F06AB402.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.53.37:446][ 94]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.53.37:446][ 94]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.54.08:871][839]BlueprintLog: New page: Compile BP_RunnerGM
+[2021.05.26-22.54.09:226][839]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2021.05.26-22.54.10:448][849]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM09F05F1E46CD8A537012C6B0B4938931.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2021.05.26-22.54.10:559][849]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2021.05.26-22.54.10:559][849]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2021.05.26-22.54.29:272][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/EndGameMenu.EndGameMenu
+[2021.05.26-22.55.05:964][397]LogUObjectHash: Compacting FUObjectHashTables data took  10.77ms
+[2021.05.26-22.55.06:120][397]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/EndGameMenuCCE097BD45B7649BF52A85BDA63F9D07.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/UI/EndGameMenu.uasset'
+[2021.05.26-22.55.06:184][397]AssetCheck: New page: Asset Save: EndGameMenu
+[2021.05.26-22.55.06:184][397]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/EndGameMenu.EndGameMenu
+[2021.05.26-22.55.39:708][841]BlueprintLog: New page: Compile EndGameMenu
+[2021.05.26-22.55.39:932][841]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2021.05.26-22.55.40:716][862]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/EndGameMenu78C84A194BD38E2A9925C8A3E19C9AAA.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/UI/EndGameMenu.uasset'
+[2021.05.26-22.55.40:773][862]AssetCheck: New page: Asset Save: EndGameMenu
+[2021.05.26-22.55.40:773][862]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/EndGameMenu.EndGameMenu
+[2021.05.26-22.55.58:928][325]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-22.55.59:024][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-22.55.59:024][325]PIE: New page: PIE session: MenuMap (May 26, 2021, 2:55:59 PM)
+[2021.05.26-22.55.59:024][325]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuMap
+[2021.05.26-22.55.59:052][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027306s)
+[2021.05.26-22.55.59:056][325]LogAIModule: Creating AISystem for world MenuMap
+[2021.05.26-22.55.59:058][325]LogPlayLevel: PIE: World Init took: (0.005305s)
+[2021.05.26-22.55.59:058][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuMap.MenuMap to /Game/UEDPIE_0_MenuMap.MenuMap (0.033244s)
+[2021.05.26-22.55.59:308][325]LogUObjectHash: Compacting FUObjectHashTables data took  16.23ms
+[2021.05.26-22.55.59:312][325]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.26-22.55.59:312][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-22.55.59:312][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-22.55.59:313][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-22.55.59:313][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-22.55.59:313][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-22.55.59:313][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-22.55.59:313][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-22.55.59:313][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-22.55.59:315][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-22.55.59:315][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-22.55.59:342][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-22.55.59:342][325]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-22.55.59:410][325]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.05.26-22.55.59:410][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-22.55.59:410][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-22.55.59:411][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-22.55.59:414][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-22.55.59:414][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-22.55.59:414][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.26-22.55.59:459][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-22.55.59:459][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-22.55.59:460][325]LogInit: FAudioDevice initialized.
+[2021.05.26-22.55.59:460][325]LogAudio: Display: Audio Device (ID: 8) registered with world 'MenuMap'.
+[2021.05.26-22.55.59:483][325]LogLoad: Game class is 'BP_MainMenuGM_C'
+[2021.05.26-22.55.59:490][325]LogWorld: Bringing World /Game/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 60) at 2021.05.26-18.55.59
+[2021.05.26-22.55.59:492][325]LogWorld: Bringing up level for play took: 0.006693
+[2021.05.26-22.55.59:492][325]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.05.26-22.55.59:498][325]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.26-22.55.59:499][325]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.26-22.55.59:499][325]PIE: Server logged in
+[2021.05.26-22.55.59:502][325]PIE: Play in editor total start time 0.525 seconds.
+[2021.05.26-22.56.01:006][344]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.05.26-22.56.01:006][344]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.05.26-22.56.01:012][344]LogNet: Browse: /Game/GameMap??game=/Game/Blueprints/BP_RunnerGM.BP_RunnerGM_C
+[2021.05.26-22.56.01:013][344]LogLoad: LoadMap: /Game/GameMap??game=/Game/Blueprints/BP_RunnerGM.BP_RunnerGM_C
+[2021.05.26-22.56.01:013][344]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MenuMap
+[2021.05.26-22.56.01:015][344]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.56.01:018][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.56.01:274][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-22.56.01:292][344]LogUObjectHash: Compacting FUObjectHashTables data took  14.24ms
+[2021.05.26-22.56.01:375][344]LogAudio: Display: Audio Device (ID: 8) registered with world 'GameMap'.
+[2021.05.26-22.56.01:379][344]LogAIModule: Creating AISystem for world GameMap
+[2021.05.26-22.56.01:380][344]LogLoad: Game class is 'BP_RunnerGM_C'
+[2021.05.26-22.56.01:461][344]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2021.05.26-18.56.01
+[2021.05.26-22.56.01:463][344]LogWorld: Bringing up level for play took: 0.080817
+[2021.05.26-22.56.01:477][344]LogLoad: Took 0.464579 seconds to LoadMap(/Game/GameMap)
+[2021.05.26-22.56.04:771][364]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-12940.000 Y=100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.06:689][376]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9690.000 Y=100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.19:429][433]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6310.000 Y=-100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.20:554][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7060.000 Y=-100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.22:450][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10310.000 Y=-100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.24:546][457]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13560.000 Y=-100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.25:166][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=15060.000 Y=100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.25:367][461]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=15560.000 Y=100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.27:142][469]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=18310.000 Y=100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.31:280][488]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25560.000 Y=0.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.39:472][528]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.26-22.56.39:473][528]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.26-22.56.39:475][528]LogStreaming: Warning: Failed to read file '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/SUMMER GAMES/EndlessRunner/EndlessRunner_UE4/Saved/SaveGames/HighScoreData.sav' error.
+[2021.05.26-22.56.42:941][546]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.05.26-22.56.42:941][546]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.05.26-22.56.42:946][546]LogNet: Browse: /Game/GameMap??game=/Game/Blueprints/BP_RunnerGM.BP_RunnerGM_C
+[2021.05.26-22.56.42:946][546]LogLoad: LoadMap: /Game/GameMap??game=/Game/Blueprints/BP_RunnerGM.BP_RunnerGM_C
+[2021.05.26-22.56.42:946][546]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameMap
+[2021.05.26-22.56.42:950][546]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.56.42:962][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.56.43:148][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-22.56.43:315][546]LogUObjectHash: Compacting FUObjectHashTables data took  17.71ms
+[2021.05.26-22.56.43:348][546]LogAudio: Display: Audio Device (ID: 8) registered with world 'GameMap'.
+[2021.05.26-22.56.43:351][546]LogAIModule: Creating AISystem for world GameMap
+[2021.05.26-22.56.43:352][546]LogLoad: Game class is 'BP_RunnerGM_C'
+[2021.05.26-22.56.43:401][546]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2021.05.26-18.56.43
+[2021.05.26-22.56.43:401][546]LogWorld: Bringing up level for play took: 0.047648
+[2021.05.26-22.56.43:415][546]LogLoad: Took 0.469275 seconds to LoadMap(/Game/GameMap)
+[2021.05.26-22.56.45:279][560]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13690.000 Y=100.000 Z=200.000] for [BP_Gem_C]
+[2021.05.26-22.56.54:240][622]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.26-22.56.54:240][622]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.05.26-22.56.58:955][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-22.56.58:987][654]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameMap
+[2021.05.26-22.56.58:988][654]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-22.56.58:992][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.56.59:231][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-22.56.59:255][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-22.56.59:361][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-22.56.59:361][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.56.59:363][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-22.56.59:418][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-22.56.59:430][654]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2021.05.26-22.56.59:490][655]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.05.26-22.57.23:230][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.26-22.57.23:317][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.26-22.57.23:435][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.26-22.57.23:587][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.05.26-22.57.55:918][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.26-22.57.56:612][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.26-22.57.57:158][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.05.26-22.58.00:944][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
