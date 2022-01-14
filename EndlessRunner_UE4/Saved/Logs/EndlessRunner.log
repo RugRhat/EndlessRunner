@@ -1430,3 +1430,164 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.14-03.38.32:262][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2022.01.14-03.38.32:293][693]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2022.01.14-03.38.52:228][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.14-03.44.12:538][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MMPawn.BP_MMPawn
+[2022.01.14-03.44.15:580][699]LogSlate: Window 'BP_MMPawn' being destroyed
+[2022.01.14-03.44.15:588][699]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.44.15:589][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.44.17:197][790]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2022.01.14-03.47.13:619][110]LogEditorTransaction: Undo Move Node
+[2022.01.14-03.48.40:959][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.14-03.48.40:961][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameMap' took 0.021
+[2022.01.14-03.48.40:961][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RunnerGM] ([1] browsable assets)...
+[2022.01.14-03.48.40:961][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RunnerGM]
+[2022.01.14-03.48.40:990][283]LogSavePackage: Moving '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM_Auto149069644497E8C3561728CB8290AB04C.tmp' to '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/Autosaves/Game/Blueprints/BP_RunnerGM_Auto1.uasset'
+[2022.01.14-03.48.40:999][283]LogFileHelpers: Auto-saving content packages took 0.038
+[2022.01.14-03.48.56:232][157]LogEditorTransaction: Undo Move Node
+[2022.01.14-03.49.13:208][158]LogEditorTransaction: Undo Move Node
+[2022.01.14-03.49.44:206][988]BlueprintLog: New page: Compile BP_RunnerGM
+[2022.01.14-03.49.44:257][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.01.14-03.49.44:658][  6]LogSavePackage: Moving '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerGM431022BE4AA51A6C8509F1B53DDD39A5.tmp' to '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_RunnerGM.uasset'
+[2022.01.14-03.49.44:669][  6]AssetCheck: New page: Asset Save: BP_RunnerGM
+[2022.01.14-03.49.44:669][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RunnerGM.BP_RunnerGM
+[2022.01.14-03.50.52:740][ 79]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/MainMenu.MainMenu
+[2022.01.14-03.50.57:974][329]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/PausedMenu.PausedMenu
+[2022.01.14-03.50.59:792][418]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.50.59:792][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.50.59:798][418]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.50.59:799][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.51.02:103][552]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/EndGameMenu.EndGameMenu
+[2022.01.14-03.53.13:587][414]BlueprintLog: New page: Compile EndGameMenu
+[2022.01.14-03.53.13:664][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.01.14-03.53.14:047][433]LogSavePackage: Moving '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/EndGameMenuD787F6244B5631216C94F1BB466D2DC2.tmp' to '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/UI/EndGameMenu.uasset'
+[2022.01.14-03.53.14:066][433]AssetCheck: New page: Asset Save: EndGameMenu
+[2022.01.14-03.53.14:066][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/EndGameMenu.EndGameMenu
+[2022.01.14-03.53.17:904][663]BlueprintLog: New page: Compile BP_Runner
+[2022.01.14-03.53.17:977][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.01.14-03.53.18:401][682]LogSavePackage: Moving '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/BP_RunnerF345B62B4F31D98E9B55C5842253CAA9.tmp' to '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/BP_Runner.uasset'
+[2022.01.14-03.53.18:413][682]AssetCheck: New page: Asset Save: BP_Runner
+[2022.01.14-03.53.18:413][682]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2022.01.14-03.53.25:356][ 96]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/InGameHUD.InGameHUD
+[2022.01.14-03.53.32:363][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Obstacles/BP_Barrel_1.BP_Barrel_1
+[2022.01.14-03.53.40:805][993]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Obstacles/BP_Barrel_2.BP_Barrel_2
+[2022.01.14-03.53.43:996][170]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.53.43:996][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.53.45:079][232]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.14-03.53.45:079][232]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.53.45:079][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.53.46:649][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Obstacles/BP_Chest.BP_Chest
+[2022.01.14-03.53.51:666][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Blocks/BP_Block_1.BP_Block_1
+[2022.01.14-03.55.25:883][212]BlueprintLog: New page: Compile BP_Block_1
+[2022.01.14-03.55.25:964][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.01.14-03.55.26:402][230]LogSavePackage: Moving '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/BP_Block_180844726474360706D21A6822E9660F3.tmp' to '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/Blueprints/Blocks/BP_Block_1.uasset'
+[2022.01.14-03.55.26:414][230]AssetCheck: New page: Asset Save: BP_Block_1
+[2022.01.14-03.55.26:415][230]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Blocks/BP_Block_1.BP_Block_1
+[2022.01.14-03.55.49:585][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Blocks/BP_Block_2.BP_Block_2
+[2022.01.14-03.55.58:275][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.01.14-03.56.00:294][122]LogSlate: Window 'Save Content' being destroyed
+[2022.01.14-03.56.00:353][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.01.14-03.56.00:362][122]LogSavePackage: Moving '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Saved/GameMap16AE8B764031FCB0A4EF538E4A4A75EB.tmp' to '../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/GameMap.umap'
+[2022.01.14-03.56.00:368][122]LogFileHelpers: Saving map 'GameMap' took 0.047
+[2022.01.14-03.56.00:385][122]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameMap.GameMap
+[2022.01.14-03.56.00:385][122]Cmd: MAP LOAD FILE="../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.14-03.56.00:385][122]LightingResults: New page: Lighting Build
+[2022.01.14-03.56.00:385][122]LoadErrors: New page: Loading map: GameMap.umap
+[2022.01.14-03.56.00:386][122]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.56.00:386][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.56.00:386][122]MapCheck: New page: Map Check
+[2022.01.14-03.56.00:386][122]LightingResults: New page: Lighting Build
+[2022.01.14-03.56.00:417][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.14-03.56.00:423][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.01.14-03.56.00:434][122]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameMap'.
+[2022.01.14-03.56.00:434][122]LogAIModule: Creating AISystem for world GameMap
+[2022.01.14-03.56.00:445][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.14-03.56.00:480][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.14-03.56.00:484][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.14-03.56.00:484][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2022.01.14-03.56.00:484][122]LogFileHelpers: Loading map 'GameMap' took 0.099
+[2022.01.14-03.56.00:499][122]AssetCheck: New page: Asset Save: GameMap
+[2022.01.14-03.56.00:499][122]LogContentValidation: Display: Validating World /Game/GameMap.GameMap
+[2022.01.14-03.56.03:960][323]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/GameMap.GameMap:PersistentLevel.GameMap
+[2022.01.14-03.56.06:378][451]LogSlate: Window 'GameMap' being destroyed
+[2022.01.14-03.56.06:385][451]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.56.06:385][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.56.09:098][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.14-03.56.09:119][607]LogLinker: Warning: [AssetLog] C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Content\MenuMap.umap: Failed to load '/Game/MenuMap_BuiltData': Can't find file.
+[2022.01.14-03.56.09:119][607]LogLinker: Warning: [AssetLog] C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Content\MenuMap.umap: Failed to load '/Game/MenuMap_BuiltData': Can't find file.
+[2022.01.14-03.56.09:132][607]LogLinker: Warning: [AssetLog] C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Content\MenuMap.umap: Failed to load '/Game/MenuMap_BuiltData': Can't find file.
+[2022.01.14-03.56.09:136][607]LogLinker: Warning: [AssetLog] C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Content\MenuMap.umap: Failed to load '/Game/MenuMap_BuiltData': Can't find file.
+[2022.01.14-03.56.09:136][607]LoadErrors: Failed to load /Game/MenuMap_BuiltData.MenuMap_BuiltData Referenced by PersistentLevel
+[2022.01.14-03.56.09:165][607]LogMaterial: Display: Missing cached shader map for material MI_Mount_LightGray, compiling. 
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.01.14-03.56.09:276][607]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.01.14-03.56.09:276][607]LogMaterial: Display: Missing cached shader map for material MI_Mount_Green_2, compiling. 
+[2022.01.14-03.56.09:326][607]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2022.01.14-03.56.09:326][607]LogMaterial: Display: Missing cached shader map for material M_GoldCoin_Top_1, compiling. 
+[2022.01.14-03.56.09:384][607]LogMaterial: Display: Missing cached shader map for material MI_Mount_Volcano, compiling. 
+[2022.01.14-03.56.09:489][607]LogMaterial: Display: Missing cached shader map for material M_GoldCoin_Base_1, compiling. 
+[2022.01.14-03.56.09:609][607]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MenuMap.MenuMap
+[2022.01.14-03.56.09:609][607]Cmd: MAP LOAD FILE="../../../../../../Users/sketc/OneDrive/Documents/Personal Projects/EndlessRunner/EndlessRunner_UE4/Content/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.14-03.56.09:610][607]LightingResults: New page: Lighting Build
+[2022.01.14-03.56.09:610][607]LoadErrors: New page: Loading map: MenuMap.umap
+[2022.01.14-03.56.09:620][607]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.56.09:621][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.56.09:621][607]MapCheck: New page: Map Check
+[2022.01.14-03.56.09:621][607]LightingResults: New page: Lighting Build
+[2022.01.14-03.56.09:771][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.14-03.56.09:786][607]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2022.01.14-03.56.09:790][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuMap'.
+[2022.01.14-03.56.09:817][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.14-03.56.09:817][607]LogAIModule: Creating AISystem for world MenuMap
+[2022.01.14-03.56.09:948][607]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2022.01.14-03.56.09:958][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.14-03.56.09:959][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2022.01.14-03.56.09:959][607]LogFileHelpers: Loading map 'MenuMap' took 0.350
+[2022.01.14-03.56.10:980][643]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 147
+[2022.01.14-03.56.11:401][653]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 137
+[2022.01.14-03.56.11:695][663]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 127
+[2022.01.14-03.56.11:894][673]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 117
+[2022.01.14-03.56.12:034][679]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 107
+[2022.01.14-03.56.12:087][681]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 98
+[2022.01.14-03.56.12:087][681]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 89
+[2022.01.14-03.56.12:573][701]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 81
+[2022.01.14-03.56.12:573][701]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 74
+[2022.01.14-03.56.12:633][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 67
+[2022.01.14-03.56.12:774][711]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 61
+[2022.01.14-03.56.13:769][737]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 55
+[2022.01.14-03.56.16:671][858]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 50
+[2022.01.14-03.56.16:746][862]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 45
+[2022.01.14-03.56.17:012][875]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 41
+[2022.01.14-03.56.17:012][875]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 37
+[2022.01.14-03.56.17:139][882]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 33
+[2022.01.14-03.56.17:625][904]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2022.01.14-03.56.17:804][913]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2022.01.14-03.56.17:847][915]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 24
+[2022.01.14-03.56.18:388][940]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2022.01.14-03.56.18:553][946]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MenuMap.MenuMap:PersistentLevel.MenuMap
+[2022.01.14-03.56.19:217][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2022.01.14-03.56.19:218][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2022.01.14-03.56.19:316][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2022.01.14-03.56.19:429][948]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2022.01.14-03.56.19:626][953]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2022.01.14-03.56.19:934][962]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.01.14-03.56.20:039][965]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.01.14-03.56.20:534][979]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.01.14-03.56.20:720][985]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.01.14-03.56.20:782][987]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.01.14-03.56.20:812][988]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.01.14-03.56.20:976][992]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.01.14-03.56.20:976][992]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.14-03.56.21:111][995]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.01.14-03.56.21:143][996]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.01.14-03.56.21:404][  4]LogSlate: Window 'MenuMap' being destroyed
+[2022.01.14-03.56.21:440][  4]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.01.14-03.56.21:441][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.14-03.56.23:890][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
