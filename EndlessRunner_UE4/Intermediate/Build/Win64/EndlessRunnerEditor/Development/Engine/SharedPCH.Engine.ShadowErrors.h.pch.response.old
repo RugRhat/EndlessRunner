@@ -259,11 +259,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine"
-/Yc"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine"
+/Yc"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4

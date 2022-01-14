@@ -1,7 +1,7 @@
-C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Definitions.EndlessRunner.h
-C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Source\EndlessRunner\EndlessRunnerGameModeBase.h
+C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Definitions.EndlessRunner.h
+C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Source\EndlessRunner\EndlessRunnerGameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Inc\EndlessRunner\EndlessRunnerGameModeBase.generated.h
+C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Inc\EndlessRunner\EndlessRunnerGameModeBase.generated.h

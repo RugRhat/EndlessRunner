@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunner\\EndlessRunner.Build.cs",
-		"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunner.Target.cs",
-		"C:\\Users\\Angelica .DESKTOP-RM5JOAJ\\Documents\\SUMMER GAMES\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunnerEditor.Target.cs"
+		"C:\\Users\\sketc\\OneDrive\\Documents\\Personal Projects\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunner\\EndlessRunner.Build.cs",
+		"C:\\Users\\sketc\\OneDrive\\Documents\\Personal Projects\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunner.Target.cs",
+		"C:\\Users\\sketc\\OneDrive\\Documents\\Personal Projects\\EndlessRunner\\EndlessRunner_UE4\\Source\\EndlessRunnerEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }

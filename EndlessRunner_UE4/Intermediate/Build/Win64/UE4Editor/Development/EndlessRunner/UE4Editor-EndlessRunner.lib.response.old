@@ -6,13 +6,13 @@
 /NAME:"UE4Editor-EndlessRunner.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunner.cpp.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunnerGameModeBase.cpp.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Runner.cpp.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunner.init.gen.cpp.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunnerGameModeBase.gen.cpp.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Runner.gen.cpp.obj"
-"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Default.rc2.res"
-/OUT:"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\UE4Editor-EndlessRunner.lib"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunner.cpp.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunnerGameModeBase.cpp.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Runner.cpp.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunner.init.gen.cpp.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\EndlessRunnerGameModeBase.gen.cpp.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Runner.gen.cpp.obj"
+"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Default.rc2.res"
+/OUT:"C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\UE4Editor-EndlessRunner.lib"
 /INCLUDE:IMPLEMENT_MODULE_EndlessRunner

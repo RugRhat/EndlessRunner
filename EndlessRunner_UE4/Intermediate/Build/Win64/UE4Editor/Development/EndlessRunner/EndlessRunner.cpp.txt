@@ -1,2 +1,2 @@
-C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Definitions.EndlessRunner.h
-C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\SUMMER GAMES\EndlessRunner\EndlessRunner_UE4\Source\EndlessRunner\EndlessRunner.h
+C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunner\Definitions.EndlessRunner.h
+C:\Users\sketc\OneDrive\Documents\Personal Projects\EndlessRunner\EndlessRunner_UE4\Source\EndlessRunner\EndlessRunner.h
